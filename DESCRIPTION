@@ -1,0 +1,11 @@
+Package: MeanRcpp
+Type: Package
+Title: takes the mean
+Version: 1.0
+Date: 2022-11-08
+Author: Patrick Dewey
+Maintainer: Patrick Dewey <patrickdewey@vt.edu>
+Description: takes the mean of a vector
+License: What license is it under?
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp, RcppArmadillo
